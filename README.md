@@ -15,7 +15,7 @@ This repository provides a comprehensive guide, setup execution workflow, and so
 
 To review the actual physical execution and response parameters of the computer vision pipeline, refer to the demonstration table below:
 
- ![Smile Detection](Real-Time Face & Smile Detection_image.png) 
+ ![Smile Detection] (Real-Time Face & Smile Detection_image.png) 
 
 
 ## 🗺️ Environment & Classifier Mapping
