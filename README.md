@@ -17,9 +17,8 @@ To review the actual physical execution and response parameters of the computer 
 
 | Functional System Demo |
 | :---: |
-| [![Watch the Video](https://img.shields.io/badge/PLAY-Project%20Demo%20Video-green?style=for-the-badge&logo=youtube)](Face-Smile-Detection-video.mp4) |
-| *Click the dynamic blueprint button above to access the uploaded execution media* |
-
+| ![Real-Time Face & Smile Detection_image.png) |
+| *System execution snapshot* |
 ---
 
 ## 🗺️ Environment & Classifier Mapping
