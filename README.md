@@ -17,10 +17,8 @@ To review the actual physical execution and response parameters of the computer 
 
 | Functional System Demo |
 | :---: |
-| [![Watch the Video](Face-Smile-Detection-video.mp4)] |
-| *Click the dynamic blueprint button above to access the recorded execution media* |
-
-> 💡 **Note:** Make sure to replace `YOUR_GOOGLE_DRIVE_OR_YOUTUBE_LINK_HERE` with your actual Google Drive video share link.
+| [![Watch the Video](https://img.shields.io/badge/PLAY-Project%20Demo%20Video-green?style=for-the-badge&logo=youtube)](Face-Smile-Detection-video.mp4) |
+| *Click the dynamic blueprint button above to access the uploaded execution media* |
 
 ---
 
@@ -31,8 +29,8 @@ To maintain high architectural pipeline processing standards without frame laggi
 | Component / File | Framework | Core Function | Configuration Parameters |
 | :--- | :--- | :--- | :--- |
 | **`haarcascade_frontalface_default.xml`** | OpenCV Core | Default Frontal Face Detection Model | `scaleFactor=1.3`, `minNeighbors=5` |
-| **`haarcascade_smile.xml`** | OpenCV Core | Granular Smile Extraction Module | `scaleFactor=1.8`, `minNeighbors=20` |
-| **`cv2.VideoCapture(1)`** | Local OS Peripheral | Live Virtual Stream Allocation via Iriun | Device Port ID Setup: Index `1` |
+| **`face_smile_detection.txt`** | Python Source | Production Script Implementation | Embedded Hardware Port Index `1` |
+| **`Face-Smile-Detection-video.mp4`** | Output Media | Recorded System Operational Demo | High-definition Framework Verification |
 
 ---
 
