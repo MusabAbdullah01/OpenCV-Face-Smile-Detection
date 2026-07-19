@@ -11,9 +11,9 @@ This repository provides a comprehensive guide, setup execution workflow, and so
 
 ---
 
-## 🎬 Project Demonstration
+## 🎬 Image Demonstration
 
-To review the actual physical execution and response parameters of the computer vision pipeline, refer to the demonstration table below:
+To review the actual physical execution and response parameters of the computer vision pipeline:
 
 ![Smile Detection](Real-Time%20Face%20&%20Smile%20Detection_image.png)
 
